@@ -8,6 +8,8 @@ Changes
  
 ## Purpose
 
+More text 
+
 ## Deployment
 
 ## How To Contribute 
