@@ -892,7 +892,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0N0kc6xsER7yoMGvh7Th" name="ERD transactielijst datamart transactielijst">
-    <mxGraphModel dx="3332" dy="2201" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4031" dy="2631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1893,6 +1893,9 @@
               <mxPoint x="603" y="795" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OTqkAfKETljZSux5urjI-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;opacity=50;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="-827" width="1657" height="1170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
